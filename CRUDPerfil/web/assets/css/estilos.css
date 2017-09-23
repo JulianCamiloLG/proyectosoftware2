@@ -1,0 +1,18 @@
+.extra{
+	font-size: 30px;
+	font-family: cursive;
+	font-style: oblique;
+}
+
+.form-control{
+	background-color:cornsilk
+}
+.body{
+    background-color:beige;
+}
+.form-bottom {
+	padding: 25px 25px 30px 25px;
+	background: #eee;
+	-moz-border-radius: 0 0 4px 4px; -webkit-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;
+	text-align: left;
+}
